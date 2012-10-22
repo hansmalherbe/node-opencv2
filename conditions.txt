@@ -1,0 +1,4 @@
+'OS=="win" and component=="shared_library"'
+'gcc_version==44 and clang==0'
+'visibility=="hidden"'
+'msvs_multi_core_compile'
